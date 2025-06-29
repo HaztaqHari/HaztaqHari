@@ -30,10 +30,11 @@
 ## 📂 Featured Projects
 
 ### 🏪 Tokyo Junction – Clothes & Footwear  
-🛍️ A responsive Online shopping site featuring product listings, order placement, and cash-on-delivery checkout.
+  A responsive Online shopping site featuring product listings, order placement, and cash-on-delivery checkout.
 
 ### 🏋️‍♂️ Vimal Fitness & Gym Workouts  
-💪 Gym workout, diet and nutrition suggestions based on fitness goals (e.g. fat loss, muscle gain) 
+  Gym workout, diet and nutrition suggestions based on fitness goals (e.g. fat loss, muscle gain) 
+
 ---
 
 ## 📫 Let's Connect!
