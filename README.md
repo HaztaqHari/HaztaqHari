@@ -8,7 +8,7 @@
 - 🔬 Problem solving using Java
 - 🧮 I'm currently learning DSA
 - 💻 Building full-stack projects using **HTML/CSS**, and **JS**
-- 📚 Always learning something new & sharing knowledge
+- 📚 Learning something new & sharing knowledge
 
 ---
 
