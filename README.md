@@ -21,7 +21,7 @@
  <img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
  
  
-## Tool i used
+## 🧑‍💻Tool i used
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/> <img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
 
 ---
