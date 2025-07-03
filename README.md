@@ -27,7 +27,7 @@
 ---
  
 
-## 📂 Featured Projects
+## 📂Projects
 
 ### 🏪 Tokyo Junction – Clothes & Footwear  
   A responsive Online shopping site featuring product listings, order placement, and cash-on-delivery checkout.
